@@ -39,16 +39,18 @@ I am currently pursuing my B.Tech in Information Technology at Cochin University
 
 ## 💻 Highlighted Projects
 
-### [TravelSphere](#) *(Mobile Application)*
-A comprehensive tour and travel package booking application designed to streamline trip planning.
-*   **Tech Stack:** Flutter, Firebase
-*   **Active Focus:** Implemented seamless UI flows, custom itinerary generation, and real-time backend integration to ensure a smooth user booking experience.
 
 ### [Illimité](#) *(Full-Stack Web Platform)*
 An end-to-end e-commerce web application featuring a dedicated administrative dashboard for inventory and order management.
 *   **Tech Stack:** Angular, Node.js, Express.js, Firebase
 *   **Active Focus:** Engineered the complete data pipeline from client-side component rendering to secure server-side logic and database operations.
 
+### [TravelSphere](#) *(Mobile Application)*
+A comprehensive tour and travel package booking application designed to streamline trip planning.
+*   **Tech Stack:** Flutter, Firebase
+*   **Active Focus:** Implemented seamless UI flows, custom itinerary generation, and real-time backend integration to ensure a smooth user booking experience.
+
+  
 <br />
 
 ## 📊 GitHub Analytics
