@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am currently pursuing my B.Tech in Information Technology at Cochin University College of Engineering Kuttanad (Class of 2027). Rather than resting on a static skill set, I am highly focused on active, continuous learning—constantly experimenting with new cross-platform frameworks, optimizing backend architectures, and translating clean UI/UX designs into functional code. 
+I am currently pursuing my B.Tech in Information Technology at Cochin University College of Engineering Kuttanad (Class of 2027). Rather than resting on a static skill set, I am highly focused on active, continuous learning—constantly experimenting with new cross-platform frameworks,mobile app development, web development, and translating clean UI/UX designs into functional code. 
 
 - 🌱 **Currently exploring:** Advanced state management in Flutter and scalable REST APIs with Node/Express.
 - 🎯 **Development focus:** Bridging the gap between intuitive user interfaces (designed in Figma) and robust databases.
