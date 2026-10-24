@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x250/111111/4DA8DA?text=Anandhu+M+V+|+Cross-Platform+%26+Full-Stack+Developer" alt="Profile Banner" width="100%" />
+  
   
   <br />
   <br />
