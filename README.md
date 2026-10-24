@@ -54,12 +54,12 @@ An end-to-end e-commerce web application featuring a dedicated administrative da
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anandhumv&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhumv&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 <div align="center">
-  📫 <i>Connect with me on <a href="YOUR_LINKEDIN_URL">LinkedIn</a></i>
+  📫 <i>Connect with me on <a href="www.linkedin.com/in/anandhu-mv">LinkedIn</a></i>
 </div>
